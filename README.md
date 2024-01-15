@@ -20,6 +20,12 @@ I'm a passionate developer who loves working with a variety of technologies, inc
 
 "I don’t need a therapist, I just need a code reviewer to listen to my problems."
 
+## 📞 Contact Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kacpersmal)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kacpersmal@gmail.com)
+
+
 ## 📈 GitHub Stats
 
 [![Kacper's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kacpersmal&show_icons=true&hide=contribs,issues&theme=dark)](https://github.com/kacpersmal)
